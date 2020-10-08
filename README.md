@@ -1,7 +1,8 @@
-＃Capstone ECE 411
+# ECE Capstone Project 
+
+# Teammates:
 
 
-＃teammates： 
   Zheliang Zhang 
   
   
