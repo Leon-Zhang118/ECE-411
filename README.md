@@ -14,4 +14,3 @@
   
   Benjamin Vu
   
-# Outline
