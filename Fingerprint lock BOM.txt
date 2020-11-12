@@ -1,0 +1,17 @@
+Partlist exported from C:/Users/Leon/Desktop/411/Fingerprint Lock/Fingerprint lock.sch at 2020/11/11 18:27
+
+Qty Value                 Device          Package        Parts  Description                                            POPULARITY PROD_ID    SPICEPREFIX
+1                         BC9VPC          BC9VPC         J3     9V Battery Holder - PC Mount                                      BATT-10855            
+1                         PINHD-1X2       1X02           JP3    PIN HEADER                                             98                               
+1                         PINHD-1X6       1X06           J2     PIN HEADER                                             79                               
+1                         PINHD-1X6B      1X06-BIG       JP1    PIN HEADER                                                                              
+2   100n                  C-EUC0805       C0805          C2, C6 CAPACITOR, European symbol                             88                    C          
+1   10K                   R-US_R0805      R0805          R1     RESISTOR, American symbol                              85                    R          
+1   1M                    R-US_R0805      R0805          R2     RESISTOR, American symbol                              85                    R          
+1   3x2 M                 PINHD-2X3       2X03           J1     PIN HEADER                                                                              
+2   47u                   C-EUC0805       C0805          C3, C4 CAPACITOR, European symbol                             88                    C          
+1   ATMEGA328P-PU         ATMEGA328P-PU   DIL28-3        U4     MICROCONTROLLER                                                                         
+1   CSTCE16M0V53-R0 16MHZ RESONATORMU     RESONATOR      X1                                                                                             
+1   M7                    DIODE-SMB       SMB            D1     DIODE                                                  11                               
+1   NCP1117ST50T3G        MC33269ST-3.3T3 SOT223         U1     Adjustable Output Low Dropout Voltage Regulator 800 mA 22                               
+1   POWER_JACK            POWER_JACK      POWER_JACK_PTH J4     Power Jack Connector                                              CONN-08197            
